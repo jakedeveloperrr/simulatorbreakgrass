@@ -1,0 +1,22 @@
+name: BreakGrassSimulator
+version: '${project.version}'
+main: dev.jake.breakgrasssimulator.BreakGrassSimulator
+api-version: 1.19
+commands:
+  va:
+    description: Vanich command
+  level:
+    description: Level info and Level TOP command
+  m:
+    description: Menu
+  setrank:
+    description: Set Group for players
+  rebirth:
+    description: Rebirth
+  levelup:
+    description: LevelUp
+  spawn:
+    description: Teleport on spawn
+  bonus:
+    description: Bonus exp on 1 min
+  levelup:
